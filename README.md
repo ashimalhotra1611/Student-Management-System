@@ -1,7 +1,11 @@
 # Student Management System
 
 A simple command-line Student Management System built using Python, with student data stored in a JSON file.
+   
+   ## Screenshot
 
+   ![Student Management System](screenshot.png)
+   
 ## Features
 
 - Add a new student
